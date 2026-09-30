@@ -1,0 +1,5 @@
+company,role,location,status,source,applied_date,job_url,salary,follow_up,notes
+Microsoft,Software Engineer,Hyderabad,Applied,LinkedIn,2026-09-05,https://example.com,12-18 LPA,2026-09-12,Prepare DSA and system design
+Infosys,Python Developer,Bengaluru,Screening,Naukri,2026-09-08,https://example.com,6-9 LPA,2026-09-15,Recruiter screening pending
+TCS,Graduate Engineer,Chennai,Interview,College Placement,2026-09-10,https://example.com,5-7 LPA,2026-09-30,Technical round scheduled
+Startup Labs,Backend Developer,Remote,Rejected,Company Website,2026-08-22,https://example.com,8-12 LPA,,Improve FastAPI project
